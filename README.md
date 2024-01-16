@@ -1,4 +1,4 @@
-<h1 class="align">React Components</h1>
+<h1 align="center">React Components</h1>
 
 <h4>This is where I store my React Components.</h4>
 
